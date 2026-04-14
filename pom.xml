@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
 
     <name>Gestão de Funcionários</name>
-    <description>Sistema de gestão de funcionários com Spring Boot e H2</description>
+    <description>Sistema de gestão de funcionários</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
