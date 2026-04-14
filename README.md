@@ -10,7 +10,7 @@ Este projeto foi desenvolvido seguindo os requisitos solicitados no desemprego. 
 - Cálculo de aumentos salariais
 - Agrupamento por função
 - Relacionamentos diversos (aniversariantes, funcionário mais velho, etc)
-- Formatação de dados conformes padres brasileiros
+- Formatação de dados conformes padrões brasileiros
 
 ## Tecnologias
 
