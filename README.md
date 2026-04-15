@@ -4,7 +4,7 @@ Sistema de gestão de funções desenvolvido em Java com Spring Boot e banco de 
 
 ## Descrição
 
-Este projeto foi desenvolvido seguindo os requisitos solicitados no desemprego. O sistema permite:
+Este projeto foi desenvolvido seguindo os requisitos solicitados. O sistema permite:
 
 - Cadastro e gerenciamento de funções
 - Cálculo de aumentos salariais
